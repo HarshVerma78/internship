@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    position: sticky;
+    top: 0;
+}
+
+#search{
+    border: 1px solid rgb(192, 189, 189);
+    border-style:initial;
+    background-color: white;
+    border-radius: 20px;
+    padding: 0.5vh;
+    padding-left: 1vh;
+    padding-right: 1vh;
+    
+}
+#search-input{
+    border: none;
+    width: 80%;
+    background-color: transparent;
+}
+
+.nav{
+    width: 50%;
+}
+.nav li{
+    margin-right: 3vh;
+}
+.nav li a{
+  color: black;
+}
+
+.nav-icon{
+    margin-left: 5%;
+}
+
+.nav-icon img{
+    margin-left: 3vh;
+}
+.btn{
+    margin-left: 3vh;
+    border-radius: 20px;
+}
